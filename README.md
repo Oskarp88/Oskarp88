@@ -1,16 +1,27 @@
-### Hi there 👋
+Hola mi nombre es Oscar William Burgos Serpa
 
-<!--
-**Oskarp88/Oskarp88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tambien conocido como Oskarp88 en github
+______________________________________________________________________________________________________
+¿Quien soy?
 
-Here are some ideas to get you started:
+Full Stack Developer con formación como Diseñador Web. Experiencia trabajando en NodeJS, React,
+Redux, SQL entre otras tecnologías del sector. Soy una persona adaptable, responsable y voluntarioso. 
+_______________________________________________________________________________________________________
+¿Que hago?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me encuentro realizando proyectos y aprendiendo otras tecnologías como GraphQL, Apollo, Next 
+y php que me permita seguir creciendo como programador.
+________________________________________________________________________________________________________
+Tecnologias que manejo:
+
+JavaScript | React | Redux | Redux toolki | NodeJs | Espress | Sequelize | PosgreSQL | HTML | CSS 
+________________________________________________________________________________________________________
+Contacto
+
+phone : +57 3004582128
+
+Linkedin : https://www.linkedin.com/in/oscar-william-burgos-serpa-009675252
+
+
+
+
