@@ -14,7 +14,7 @@ y php que me permita seguir creciendo como programador.
 ________________________________________________________________________________________________________
 Tecnologias que manejo:
 
-JavaScript | React | Redux | Redux toolki | NodeJs | Espress | Sequelize | PosgreSQL | HTML | CSS 
+JavaScript | React | Redux | Redux toolki | NodeJs | Espress | Sequelize | PosgreSQL | HTML | CSS |
 ________________________________________________________________________________________________________
 Contacto
 
