@@ -4,23 +4,25 @@ Tambien conocido como Oskarp88 en github
 ______________________________________________________________________________________________________
 ¿Quien soy?
 
-Full Stack Developer con formación como Diseñador Web. Experiencia trabajando en NodeJS, React,
-Redux, SQL entre otras tecnologías del sector. Soy una persona adaptable, responsable y voluntarioso. 
+Soy un desarrollador web full-stack con experiencia en JavaScript, React, Redux, Node.js, Express, PostgreSQL y 
+MongoDB. He desarrollado soluciones innovadoras, incluido un sitio web de adopción de animales y un juego de 
+ajedrez en línea creado con Node.js, MongoDB, React y WebSocket.
+
 _______________________________________________________________________________________________________
 ¿Que hago?
 
-Actualmente me encuentro realizando proyectos y aprendiendo otras tecnologías como GraphQL, Apollo, Next 
-y php que me permita seguir creciendo como programador.
+Actualmente me encuentro realizando proyectos y aprendiendo otras tecnologías como Flutter, dart, 
+que me permita seguir creciendo como programador.
 ________________________________________________________________________________________________________
 Tecnologias que manejo:
 
-JavaScript | React | Redux | Redux toolki | NodeJs | Espress | Sequelize | PosgreSQL | HTML | CSS |
+JavaScript  | flutter | React | Redux | Redux toolki | NodeJs | Espress  | PosgreSQL | HTML | CSS
 ________________________________________________________________________________________________________
 Contacto
 
-phone : +57 3004582128
+phone : +57 3042684860
 
-Linkedin : https://www.linkedin.com/in/oscar-william-burgos-serpa-009675252
+Linkedin : https://www.linkedin.com/in/oskarp88
 
 
 
