@@ -16,7 +16,7 @@ que me permita seguir creciendo como programador.
 ________________________________________________________________________________________________________
 Tecnologias que manejo:
 
-JavaScript  | flutter | React | Redux | Redux toolki | NodeJs | Espress  | PosgreSQL | HTML | CSS
+JavaScript  | flutter | React | Redux | Redux toolki | NodeJs | Espress | MongoDB | PosgreSQL | HTML5 | CSS
 ________________________________________________________________________________________________________
 Contacto
 
